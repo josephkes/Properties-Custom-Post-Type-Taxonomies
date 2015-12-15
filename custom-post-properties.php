@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Properies
- * Plugin URI: http://josephkesisoglou.co.uk/plugins
+ * Plugin URI: https://github.com/josephkes/Properties-Custom-Post-Type-Taxonomies
  * Description: A simple plugin that adds custom post types and taxonomies to your WordPress installation
  * Version: 0.2
  * Author: Joseph Kesisoglou
