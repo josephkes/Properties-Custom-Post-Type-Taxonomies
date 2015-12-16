@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Properties CPTT
- * Plugin URI: https://github.com/josephkes/Properties-Custom-Post-Type-Taxonomies
+ * Plugin URI: https://github.com/josephkes/Properties-Custom-Post-Types-Taxonomies
  * Description: This plugin adds two custom post types and associated taxonomies to a WordPress installation. Specifically it adds the Residential and Commercial (Properties) post types.
  * Version: 1.0
  * Author: Joseph Kesisoglou
