@@ -1,5 +1,5 @@
 # Properties Custom Post Type Taxonomies
-A simple plugin that adds custom post types and taxonomies to a WordPress installation
+A simple plugin that adds custom post types and taxonomies to a WordPress installation.
 
 More specifically this plugin was created for a real estate office that lists their properties on the frontend but also wish to manage them from the backend.
 
